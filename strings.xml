@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Latihan-Tampilan_E-Commerce</string>
+
+    <string name="content_text">
+        Toko kami terpercaya sejak 2015 menjual produk ORIGINAL APPLE.
+        100% Garansi resmi, original IBOX, baru, dan tersegel rapih. kami ganti baru jika tidak! \n==
+        YUK BURUAN DI ORDER!!!
+    </string>
+
+    <string name="content_specs_chipset">
+        Chipset Apple A16 Bionic (4 nm)
+		OS iOS 16, upgradable to iOS 16.0.3
+    </string>
+
+    <string name="content_specs_display">
+        6.7 inches 
+		Super Retina XDR OLED at 460ppi 
+		Ceramic Shield glass
+    </string>
+
+    <string name="content_specs_size">
+        146.7 x 71.5 x 7.8 mm
+    </string>
+
+    <string name="content_specs_battery">
+        Li-Ion 3279 mAh
+    </string>
+    <string name="content_specs_camera">
+        - 48 MP, f/1.8, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS
+		- 12 MP, f/2.8, 77mm (telephoto), 1/3.5", PDAF, OIS, 3x optical zoom
+		- 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55", 1.4µm, dual pixel PDAF
+    </string>
+
+    <string name="stock">Terjuak 890</string>
+
+    <string name="specification">Spesifikasi</string>
+
+    <string name="chipset">Chipset</string>
+
+    <string name="display">Display</string>
+
+    <string name="size">Size</string>
+
+    <string name="battery">Battery</string>
+
+    <string name="camera">Camera</string>
+
+    <string name="seller">Dijual oleh</string>
+
+    <string name="seller_name">Apple Shop Jaya</string>
+
+    <string name="buy">Beli Sekarang</string>
+
+    <string name="dummy_value">Rp. 18.100.000</string>
+
+    <string name="dummy_name">Apple iPhone 14 Pro</string>
+
+    <string name="dummy_photos">6 Photos</string>
+
+    <string name="success_notif">Selamat! \nPembelian anda berhasil</string>
+</resources>
